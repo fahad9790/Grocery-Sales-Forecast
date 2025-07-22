@@ -6,4 +6,4 @@
 
 # We are provided with the recorded observation of daily sales of a grocery shop over a period of 692 days to forecast the sales of the next 90 days.
 
-![Alt text](Sales-forecast-1.jpeg)
+![Alt text](images/Sales-forecast-1.jpeg)
