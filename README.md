@@ -5,4 +5,4 @@
 # Given the daily sales of a grocery shop recorded over a period of almost 2 years, our objective as a data scientist is to build a machine learning model that can forecast the sales for the upcoming 3 months.
 
 # We are provided with the recorded observation of daily sales of a grocery shop over a period of 692 days to forecast the sales of the next 90 days.
- ![Alt text]([https://github.com/username/repo-name/blob/main/images/image.jpeg?raw=true](https://github.com/fahad9790/Grocery-Sales-Forecast/blob/main/Sales-forecast-1.jpg?raw=true))
+ ![Alt text](https://github.com/fahad9790/Grocery-Sales-Forecast/blob/main/Sales-forecast-1.jpg?raw=true))
